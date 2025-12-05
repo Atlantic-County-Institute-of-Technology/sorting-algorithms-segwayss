@@ -20,7 +20,6 @@ def main():
         elif selection == 3:
             print("bubble sort")
 
-print("here for commit")
 
 if __name__ == "__main__":
     main()

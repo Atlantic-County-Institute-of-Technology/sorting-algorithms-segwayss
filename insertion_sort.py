@@ -17,7 +17,4 @@ for i in range(len(numbers) - 1):
     if numbers[i] > numbers[j]:
         numbers[i], numbers[j] = numbers[j], numbers[i]
 
-
-print("here for commit")
-
 print(numbers)
