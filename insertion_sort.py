@@ -18,4 +18,3 @@ for i in range(len(numbers) - 1):
         numbers[i], numbers[j] = numbers[j], numbers[i]
 
 print(numbers)
-print("here for commit")
